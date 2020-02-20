@@ -1,0 +1,28 @@
+DATOS PERSONALES
+
+ID: 10
+Nombre: Geovani
+Puesto: Hueco
+
+DEVENGADO
+
+Salario Ordinario: 4560.0
+Salario Extraordinario: 0.0
+Bonificaciones: 0.0
+Comisiones: 0.0
+OTros: 0.0
+
+Total Devengado: 4560.0
+
+DESCUENTOS
+
+Iggs: 220.248
+Isr: 0.0
+Anticipos: 0.0
+Descuentos Judiciales: 0.0
+Otros descuentos: 0.0
+Total descuentos: 220.248
+
+TOTALES
+
+TOTAL LIQUIDADO: 4339.752

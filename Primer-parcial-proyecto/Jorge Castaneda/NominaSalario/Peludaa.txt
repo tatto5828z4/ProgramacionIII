@@ -1,0 +1,28 @@
+DATOS PERSONALES
+
+ID: Peluda
+Nombre: Peludaa
+Puesto: Jefe
+
+DEVENGADO
+
+Salario Ordinario: 2900.0
+Salario Extraordinario: 2500.0
+Bonificaciones: 152.0
+Comisiones: 250.0
+OTros: 0.0
+
+Total Devengado: 5802.0
+
+DESCUENTOS
+
+Iggs: 272.895
+Isr: 0.0
+Anticipos: 0.0
+Descuentos Judiciales: 0.0
+Otros descuentos: 0.0
+Total descuentos: 272.895
+
+TOTALES
+
+TOTAL LIQUIDADO: 5529.105

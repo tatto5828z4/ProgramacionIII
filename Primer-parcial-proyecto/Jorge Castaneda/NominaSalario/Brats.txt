@@ -1,0 +1,28 @@
+DATOS PERSONALES
+
+ID: 2
+Nombre: Brats
+Puesto: Rata mayor
+
+DEVENGADO
+
+Salario Ordinario: 7800.0
+Salario Extraordinario: 0.0
+Bonificaciones: 0.0
+Comisiones: 0.0
+OTros: 0.0
+
+Total Devengado: 7800.0
+
+DESCUENTOS
+
+Iggs: 376.74
+Isr: 468.0
+Anticipos: 0.0
+Descuentos Judiciales: 0.0
+Otros descuentos: 0.0
+Total descuentos: 844.74
+
+TOTALES
+
+TOTAL LIQUIDADO: 6955.26

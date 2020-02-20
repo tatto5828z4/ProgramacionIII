@@ -1,0 +1,28 @@
+DATOS PERSONALES
+
+ID: 5
+Nombre: Sebas
+Puesto: Jefe
+
+DEVENGADO
+
+Salario Ordinario: 4200.0
+Salario Extraordinario: 0.0
+Bonificaciones: 0.0
+Comisiones: 0.0
+OTros: 0.0
+
+Total Devengado: 4200.0
+
+DESCUENTOS
+
+Iggs: 202.86
+Isr: 0.0
+Anticipos: 0.0
+Descuentos Judiciales: 0.0
+Otros descuentos: 0.0
+Total descuentos: 202.86
+
+TOTALES
+
+TOTAL LIQUIDADO: 3997.14

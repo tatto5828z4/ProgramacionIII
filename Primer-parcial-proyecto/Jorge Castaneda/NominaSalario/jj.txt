@@ -1,0 +1,28 @@
+DATOS PERSONALES
+
+ID: 3
+Nombre: jj
+Puesto: kaka
+
+DEVENGADO
+
+Salario Ordinario: 9000.0
+Salario Extraordinario: 0.0
+Bonificaciones: 0.0
+Comisiones: 0.0
+OTros: 0.0
+
+Total Devengado: 9000.0
+
+DESCUENTOS
+
+Iggs: 434.7
+Isr: 540.0
+Anticipos: 0.0
+Descuentos Judiciales: 0.0
+Otros descuentos: 0.0
+Total descuentos: 974.7
+
+TOTALES
+
+TOTAL LIQUIDADO: 8025.3

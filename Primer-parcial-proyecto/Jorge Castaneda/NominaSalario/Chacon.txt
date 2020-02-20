@@ -1,0 +1,28 @@
+DATOS PERSONALES
+
+ID: 11
+Nombre: Chacon
+Puesto: JAJAJA
+
+DEVENGADO
+
+Salario Ordinario: 4800.0
+Salario Extraordinario: 0.0
+Bonificaciones: 0.0
+Comisiones: 0.0
+OTros: 0.0
+
+Total Devengado: 4800.0
+
+DESCUENTOS
+
+Iggs: 231.84
+Isr: 0.0
+Anticipos: 0.0
+Descuentos Judiciales: 0.0
+Otros descuentos: 0.0
+Total descuentos: 231.84
+
+TOTALES
+
+TOTAL LIQUIDADO: 4568.16

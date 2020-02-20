@@ -1,0 +1,28 @@
+DATOS PERSONALES
+
+ID: 6
+Nombre: hhh
+Puesto: jojo
+
+DEVENGADO
+
+Salario Ordinario: 7000.0
+Salario Extraordinario: 0.0
+Bonificaciones: 0.0
+Comisiones: 0.0
+OTros: 0.0
+
+Total Devengado: 7000.0
+
+DESCUENTOS
+
+Iggs: 338.1
+Isr: 350.0
+Anticipos: 0.0
+Descuentos Judiciales: 0.0
+Otros descuentos: 0.0
+Total descuentos: 688.1
+
+TOTALES
+
+TOTAL LIQUIDADO: 6311.9
