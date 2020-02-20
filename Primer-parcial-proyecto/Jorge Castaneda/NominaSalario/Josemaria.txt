@@ -1,0 +1,28 @@
+DATOS PERSONALES
+
+ID: 15
+Nombre: Josemaria
+Puesto: Hueco
+
+DEVENGADO
+
+Salario Ordinario: 8000.0
+Salario Extraordinario: 0.0
+Bonificaciones: 0.0
+Comisiones: 0.0
+OTros: 0.0
+
+Total Devengado: 8000.0
+
+DESCUENTOS
+
+Iggs: 386.4
+Isr: 480.0
+Anticipos: 0.0
+Descuentos Judiciales: 0.0
+Otros descuentos: 0.0
+Total descuentos: 866.4
+
+TOTALES
+
+TOTAL LIQUIDADO: 7133.6

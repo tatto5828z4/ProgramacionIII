@@ -1,0 +1,28 @@
+DATOS PERSONALES
+
+ID: 7
+Nombre: Angel
+Puesto: Kaka
+
+DEVENGADO
+
+Salario Ordinario: 4500.0
+Salario Extraordinario: 0.0
+Bonificaciones: 0.0
+Comisiones: 0.0
+OTros: 0.0
+
+Total Devengado: 4500.0
+
+DESCUENTOS
+
+Iggs: 217.35
+Isr: 0.0
+Anticipos: 0.0
+Descuentos Judiciales: 0.0
+Otros descuentos: 0.0
+Total descuentos: 217.35
+
+TOTALES
+
+TOTAL LIQUIDADO: 4282.65
