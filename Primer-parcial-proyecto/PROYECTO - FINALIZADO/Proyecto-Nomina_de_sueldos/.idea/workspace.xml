@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfa36787-2847-44f1-a9ea-41f6bfc5f250" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XikhJocjsp4KRsayCzz08xi6wn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jcommon-1.0.17.jar!/" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Documents\Proyecto-Nomina_de_sueldos\src\Nomina_de_salarios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nomina_de_salarios.Main" />
+      <module name="Proyecto-Nomina_de_sueldos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nomina_de_salarios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tabla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nomina_de_salarios.Tabla" />
+      <module name="Proyecto-Nomina_de_sueldos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nomina_de_salarios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Tabla" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,SHOW_NON_PUBLIC" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfa36787-2847-44f1-a9ea-41f6bfc5f250" name="Default Changelist" comment="" />
+      <created>1581536419403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581536419403</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1582079009147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1582079009147" />
+    <state x="692" y="399" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581537165601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="692" y="399" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1581537165601" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1581817933980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581817933980" />
+    <state width="1877" height="136" key="GridCell.Tab.0.bottom" timestamp="1582154549495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582154549495" />
+    <state width="1877" height="136" key="GridCell.Tab.0.center" timestamp="1582154549494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582154549494" />
+    <state width="1877" height="136" key="GridCell.Tab.0.left" timestamp="1582154549494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582154549494" />
+    <state width="1877" height="136" key="GridCell.Tab.0.right" timestamp="1582154549494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="136" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582154549494" />
+    <state width="1877" height="252" key="GridCell.Tab.1.bottom" timestamp="1582153808267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="252" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582153808267" />
+    <state width="1877" height="252" key="GridCell.Tab.1.center" timestamp="1582153808266">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="252" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582153808266" />
+    <state width="1877" height="252" key="GridCell.Tab.1.left" timestamp="1582153808266">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="252" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582153808266" />
+    <state width="1877" height="252" key="GridCell.Tab.1.right" timestamp="1582153808266">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="252" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582153808266" />
+    <state x="772" y="116" key="SettingsEditor" timestamp="1581716985810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="772" y="116" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581716985810" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1582166518061">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582166518061" />
+    <state x="664" y="409" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581798925252">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="409" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1581798925252" />
+    <state x="533" y="174" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1581743772089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="533" y="174" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1581743772089" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1581733316873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581733316873" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Nomina_de_salarios/CustomPanel.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
